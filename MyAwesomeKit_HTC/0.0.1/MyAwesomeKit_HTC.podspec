@@ -28,5 +28,5 @@ spec.swift_version = '5'
 # spec.xcconfig = { 'OTHER_LDFLAGS' => '-lObjC' }
 
 spec.source_files = 'TestFramework/**/*.{swift,h,m}'
-spec.public_header_files = '**/*.swift'
+# spec.public_header_files = '**/*.swift'
 end
